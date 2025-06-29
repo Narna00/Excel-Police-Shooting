@@ -17,7 +17,7 @@ This project was completed as part of my **Capstone Project at Blossom Academy**
 ## 🔍 Key Features
 - 📅 Time-based analysis by **day, month, and year**.
 - 🧑‍🤝‍🧑 Race and gender-based filtering.
-- 🔫 Fleeing status.
+- 🏃‍♂️ Fleeing status.
 - 🎥 Body camera usage tracking.
 - 📈 KPIs: Total incidents, Average age, Number of states, Involving mental health.
 
